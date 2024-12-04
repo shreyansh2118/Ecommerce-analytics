@@ -26,8 +26,7 @@ This project focuses on analyzing a dataset of over **10,000 rows** from an e-co
 - **Key Features**:  
   - Transaction IDs  
   - Product Categories  
-  - Sales Amount  
-  - Customer Demographics  
+  - Sales Amount   
   - Order Dates  
 
 ---
@@ -36,4 +35,4 @@ This project focuses on analyzing a dataset of over **10,000 rows** from an e-co
 The project includes the following visualizations to interpret the dataset effectively:  
 1. **Sales Over Time**: Line plot showing revenue trends.  
 2. **Category Performance**: Bar charts highlighting best-selling categories.  
-3. **Heatmap of Sales**: Correlation between various numerical features. 
+
