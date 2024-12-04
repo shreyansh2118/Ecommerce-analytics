@@ -2,6 +2,10 @@
 This project focuses on analyzing a dataset of over **10,000 rows** from an e-commerce platform to uncover sales trends and patterns. The analysis utilizes Python's powerful libraries, including **Pandas**, **Seaborn**, and **Matplotlib**, to generate actionable insights and compelling visualizations for better understanding business performance.  
 
 ---
+Some screen shots of insights
+![1](https://github.com/user-attachments/assets/7d0ba63a-fde2-4bbf-bd06-12936534eaa2)
+![2](https://github.com/user-attachments/assets/0d836c0b-e1fa-46c5-b38f-828bc1e77c90)
+---
 
 ## Features  
 - **Dataset Exploration**: Detailed examination of sales data with descriptive statistics.  
